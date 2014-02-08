@@ -168,6 +168,8 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
     <!-- Network speed -->
     <string name="show_network_speed">Indicador de la velocitat de xarxa</string>
     <string name="show_network_speed_summary">Mostra la velocitat de xarxa a la barra d\'estat</string>
+    <string name="show_network_speed_bits">Mostra la velocitat en bits per segon</string>
+    <string name="show_network_speed_bytes">Mostra la velocitat en bytes per segon</string>
 
     <!-- Status Bar Activity Indicators -->
     <string name="show_activity_indicators_on_status_bar_title">Indicador de l\'activitat de xarxa</string>
@@ -383,5 +385,9 @@ along with this program. If not, see <http://www.gnu.org/licenses/>.
     <string name="volume_key_cursor_control_title">Control del cursor</string>
     <string name="volume_key_cursor_control_on">Esquerra/dreta</string>
     <string name="volume_key_cursor_control_on_reverse">Dreta/esquerra</string>
+    
+    <!-- Quick Swipe -->
+    <string name="quick_swipe_title">Llisca ràpid</string>
+    <string name="quick_swipe_summary">Llisca ràpidament entre els ajustaments ràpids i el calaix d'avisos</string>
 
 </resources>
